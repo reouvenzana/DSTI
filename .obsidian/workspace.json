@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "📙Courses/Warm-up - Mathematics/Sets.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "📙Courses/Warm-up - Mathematics/Sets.md"
               }
             }
           }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "📙Courses/Warm-up - Mathematics/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "📙Courses/Warm-up - Mathematics/Sets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,11 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "d9652114db6b0f0a",
+  "active": "fe3f6a7ef71587e1",
   "lastOpenFiles": [
     "📙Courses/Warm-up - Mathematics/Logic.md",
-    "📙Courses/Warm-up - Mathematics/Sets.md",
     "README.md",
+    "📙Courses/Warm-up - Mathematics/Sets.md",
     "LICENSE",
     "📙Courses/Warm-up - Mathematics/README.md",
     "🏠 Home.md",

@@ -88,7 +88,7 @@ $\displaystyle A$ and $\displaystyle B$ are a partition of $\displaystyle E$ if 
 - $\displaystyle A\cup B=E$
 
 > [!Example] Example
-> $\displaystyle E=\mathcal{N} ,\ A=\left\{\text{odd numbers}\right\} ,\ B=\left\{\text{even numbers}\right\}$
+> $\displaystyle E=\mathbb{N} ,\ A=\left\{\text{odd numbers}\right\} ,\ B=\left\{\text{even numbers}\right\}$
 
 ## 6 Cartesian Product
 
@@ -105,7 +105,7 @@ The **cartesian product** of two sets $\displaystyle E$ and $\displaystyle F$ is
 If $\displaystyle E=F$ then $\displaystyle E\times F=E^{2}$.
 
 > [!Example] Example
-> $\displaystyle E=\mathcal{R} ,\ E\times E=\mathcal{R}^{2}$, wich defines the cartesian plane formed by all the possible ordered pairs $\displaystyle ( x,y)$.
+> $\displaystyle E=\mathbb{R} ,\ E\times E=\mathbb{R}^{2}$, wich defines the cartesian plane formed by all the possible ordered pairs $\displaystyle ( x,y)$.
 
 ## 7 Applications
 
@@ -123,18 +123,18 @@ The image of a subset $\displaystyle A$ of $\displaystyle E$ is $\displaystyle B
 The **reciprocal image** of a subset $\displaystyle B$ of $\displaystyle F$ is $\displaystyle f^{-1}( B) =A=\{a\in E,\ f( a) \in B\}$
 
 > [!Example] Example
-> $\displaystyle f( x) =|x|,\ \mathcal{R\rightarrow R}$
+> $\displaystyle f( x) =|x|,\ \mathbb{R\rightarrow R}$
 > 
-> $\displaystyle f(\mathcal{R}) =\mathcal{R}^{+} =\{x\in \mathcal{R} ,x\geqslant 0\}$
+> $\displaystyle f(\mathbb{R}) =\mathbb{R}^{+} =\{x\in \mathbb{R} ,x\geqslant 0\}$
 > 
-> $\displaystyle f^{-1}\left(\mathcal{R}^{+}\right) =\mathcal{R}$
+> $\displaystyle f^{-1}\left(\mathbb{R}^{+}\right) =\mathbb{R}$
 
 ### 7.4 Definition - injective
 $\displaystyle f$ is said to be **injective** if each element of $\displaystyle F$ has at most one antecedent in $\displaystyle E$.
 
 > [!Example] Example
 > 
-> $\displaystyle E=\mathcal{R} ,\ F=\mathcal{R} ,\ f( x) =|x|$ is not a bijection from $\displaystyle E$ to $\displaystyle F$ since an an element of $\displaystyle F$ may have two antecedents in $\displaystyle E$. Though, it is a bijection from $\displaystyle E=\mathcal{R}^{+}$ to $\displaystyle F=\mathcal{R}^{+}$and also from $\displaystyle E=\mathcal{R}^{+}$ to $\displaystyle F=\mathcal{R}$.
+> $\displaystyle E=\mathbb{R} ,\ F=\mathbb{R} ,\ f( x) =|x|$ is not a bijection from $\displaystyle E$ to $\displaystyle F$ since an an element of $\displaystyle F$ may have two antecedents in $\displaystyle E$. Though, it is a bijection from $\displaystyle E=\mathbb{R}^{+}$ to $\displaystyle F=\mathbb{R}^{+}$and also from $\displaystyle E=\mathbb{R}^{+}$ to $\displaystyle F=\mathbb{R}$.
 
 ### 7.5 Proposition
 If $\displaystyle g$ and $\displaystyle f$ are both injective, and $\displaystyle g( x) =g( y)$ then $\displaystyle x=y$.
@@ -148,11 +148,11 @@ $\displaystyle f$ is said to be an **bijective** if it is both subjective and in
 > [!Example] Example
 > $\displaystyle f( x) =|x|$
 > 
-> $\displaystyle f:\mathcal{R\rightarrow R}$: nor subjective or bijective
+> $\displaystyle f:\mathbb{R\rightarrow R}$: nor subjective or bijective
 > 
-> $\displaystyle f:\mathcal{R\rightarrow R}^{+}$: subjective
+> $\displaystyle f:\mathbb{R\rightarrow R}^{+}$: subjective
 > 
-> $\displaystyle f:\mathcal{R}^{+}\rightarrow \mathcal{R}^{+}$: bijective
+> $\displaystyle f:\mathbb{R}^{+}\rightarrow \mathbb{R}^{+}$: bijective
 
 ### 7.8 Proposition
 Given an application $\displaystyle f$. $\displaystyle f$ is not subjective. If we restrict the image set to $\displaystyle f( E)$, then it becomes subjective from $\displaystyle E$ to $\displaystyle f( E)$.
@@ -160,9 +160,9 @@ Given an application $\displaystyle f$. $\displaystyle f$ is not subjective. If 
 > [!Example] Example
 > $\displaystyle f( x) =|x|$
 > 
-> $\displaystyle f:\mathcal{R\rightarrow R}$
+> $\displaystyle f:\mathbb{R\rightarrow R}$
 > 
-> $\displaystyle f( x)$ is an application because each element of $\displaystyle E$ has at least image in $\displaystyle F$. It is not subjective. Though, if we restric the image set to $\displaystyle f( E) =\mathcal{R}^{+}$, then it becomes subjective as, for each element of $\displaystyle F$, there is at least one element of $\displaystyle E$.
+> $\displaystyle f( x)$ is an application because each element of $\displaystyle E$ has at least image in $\displaystyle F$. It is not subjective. Though, if we restric the image set to $\displaystyle f( E) =\mathbb{R}^{+}$, then it becomes subjective as, for each element of $\displaystyle F$, there is at least one element of $\displaystyle E$.
 
 ## 8 Composition of applications
 
@@ -213,9 +213,9 @@ An injection is a bijection from $\displaystyle E$ to its image set $\displaysty
 > [!Example] Example
 > $\displaystyle f( x) =|x|$
 > 
-> $\displaystyle f:\mathcal{R\rightarrow R}^{+}$
+> $\displaystyle f:\mathbb{R\rightarrow R}^{+}$
 > 
-> $\displaystyle E=\mathcal{R} ,\ f( E) =\mathcal{R}^{+}$
+> $\displaystyle E=\mathbb{R} ,\ f( E) =\mathbb{R}^{+}$
 
 ## 9 Restriction and extension of an application
 $\displaystyle f:\ E\rightarrow F,\ A\in E$
@@ -229,10 +229,10 @@ We can say that $\displaystyle f$ is an extension of $\displaystyle \varphi $ to
 > 
 > $\displaystyle \varphi$ is defined on $\displaystyle A=[ 1,+\infty [$
 > 
-> The extension of $\displaystyle \varphi$ to $\displaystyle \mathcal{R}$ is $\displaystyle f( x) =x-1$ because $\displaystyle f( x) =\varphi ( x)$ on $\displaystyle A$.
+> The extension of $\displaystyle \varphi$ to $\displaystyle \mathbb{R}$ is $\displaystyle f( x) =x-1$ because $\displaystyle f( x) =\varphi ( x)$ on $\displaystyle A$.
 > 
-> $\displaystyle \varphi :A\rightarrow \mathcal{R}$
+> $\displaystyle \varphi :A\rightarrow \mathbb{R}$
 > 
-> $\displaystyle f:\mathcal{R}\rightarrow \mathcal{R}$
+> $\displaystyle f:\mathbb{R}\rightarrow \mathbb{R}$
 
 
