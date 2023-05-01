@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "📙Courses/Warm-up - Mathematics/Sets.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -194,9 +194,11 @@
   },
   "active": "fe3f6a7ef71587e1",
   "lastOpenFiles": [
-    "📙Courses/Warm-up - Mathematics/Logic.md",
+    "🖇️Attachments/diagram-20230502.svg",
     "README.md",
     "📙Courses/Warm-up - Mathematics/Sets.md",
+    "🖇️Attachments",
+    "📙Courses/Warm-up - Mathematics/Logic.md",
     "LICENSE",
     "📙Courses/Warm-up - Mathematics/README.md",
     "🏠 Home.md",
@@ -237,7 +239,6 @@
     "📙Notes/Computer Science/AWS - Runtime Compute Choices.md",
     "📙Notes/Heredot",
     "📙Notes/Artificial Intelligence",
-    "📙Notes/Planification/Month",
-    "📙Notes/Career & Business/Gradient"
+    "📙Notes/Planification/Month"
   ]
 }

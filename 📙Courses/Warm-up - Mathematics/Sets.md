@@ -235,4 +235,45 @@ We can say that $\displaystyle f$ is an extension of $\displaystyle \varphi $ to
 > 
 > $\displaystyle f:\mathbb{R}\rightarrow \mathbb{R}$
 
+## 10 Binary relations
 
+### 10.1 Definition - binary relation
+
+Giving a **binary relation** on $\displaystyle E$ consists in introducing a partition of $\displaystyle E\times E$ in two subsets $\displaystyle G$ and $\displaystyle G'$ such that $\displaystyle aRb\Longleftrightarrow ( a,b) \in G,\ G$ being the graph of $R$, and $R$ being a binary relationship.
+
+> [!Example] Example
+> $\displaystyle a\in \mathbb{R}, b\ \in \mathbb{R}^{+} ,\ a\leqslant b$
+> ![[diagram-20230502.svg]] 
+
+### 10.2 Property - reflexivity
+
+A binary relationship $\displaystyle R$ is **reflexive** if  $\displaystyle aRa,\ \forall a\in E$. Geometrically, it means that the first bisectrix is included in $\displaystyle G$.
+
+> [!Example] Example
+> $\displaystyle a\leqslant b$ is reflexive since $\displaystyle a\leqslant a$.
+
+### 10.3 Property - symmetry
+A binary relationship $\displaystyle R$ is **symmetric** if  $\displaystyle aRb\Longrightarrow bRa$. So, if $\displaystyle ( a;b)$ belongs to $\displaystyle G$, then $\displaystyle ( b;a)$ also belongs to $\displaystyle G$. Geometrically, it means that the graph $\displaystyle G$ is symmetric with respect to the first bisectrix. 
+
+### 10.4 Property - antisymmetry
+$\displaystyle \begin{drcases}
+G=aRb\\
+G=bRa
+\end{drcases} \Longrightarrow a=b$
+
+> [!Example] Example
+> $\displaystyle a\leqslant b$
+> 
+> So, $\displaystyle a\leqslant b$ and $\displaystyle b\leqslant a$ implies that $\displaystyle a=b$.
+> 
+
+### 10.5 Property - transitivity
+$\displaystyle \begin{drcases}
+G=aRb\\
+G=bRc
+\end{drcases} \Longrightarrow G=aRb$
+
+> [!Example] Example
+> $\displaystyle a\leqslant b$
+> 
+> So $\displaystyle a\leqslant b$ and $\displaystyle b\leqslant c$ implies that $\displaystyle a\leqslant c$.
