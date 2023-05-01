@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "88fa8de19c28ae84",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e302c613a73a54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe3f6a7ef71587e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54c9c559cd56cf47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ebeb2ca17160fc1",
+        "type": "tabs",
+        "dimension": 40.476190476190474,
+        "children": [
+          {
+            "id": "d9652114db6b0f0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ec940fae1bff1c36",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "1c313260ddbc8a7f",
+        "type": "tabs",
+        "dimension": 29.761904761904763,
+        "children": [
+          {
+            "id": "cd1334d14f3a5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d04f4b9b61364fd3",
+        "type": "tabs",
+        "dimension": 29.761904761904763,
+        "children": [
+          {
+            "id": "6c6be74f25571912",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "right": {
+    "id": "fadb57a53601aa88",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e94131f1afa1643",
+        "type": "tabs",
+        "dimension": 39.500734214390604,
+        "children": [
+          {
+            "id": "ecff67261f9670c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f61634e4557da51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b63593b48333bfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2132a30d2ac68f35",
+        "type": "tabs",
+        "dimension": 29.368575624082233,
+        "children": [
+          {
+            "id": "38314e38bfb1deef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f10cee36ce68b096",
+        "type": "tabs",
+        "dimension": 31.130690161527163,
+        "children": [
+          {
+            "id": "fd2a429ead93b946",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": true,
+      "canvas:Create new canvas": true,
+      "switcher:Open quick switcher": true,
+      "workspaces:Manage workspace layouts": true,
+      "command-palette:Open command palette": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true
+    }
+  },
+  "active": "d9652114db6b0f0a",
+  "lastOpenFiles": [
+    "📙Courses/Warm-up - Mathematics/Logic.md",
+    "📙Courses/Warm-up - Mathematics/Sets.md",
+    "README.md",
+    "LICENSE",
+    "📙Courses/Warm-up - Mathematics/README.md",
+    "🏠 Home.md",
+    "📙Courses/Warm-up - Mathematics/0. Mathematics.md",
+    "Mathématiques/Introduction à l'analyse/Fonctions.md",
+    "📙Notes/Mathematics/1. Sets.md",
+    "📙Notes/Mathematics/1. Logic.md",
+    "Contents Guide.md",
+    "📙Notes/Computer Science/AWS - Elastic Compute Cloud (EC2).md",
+    "📙Notes/Career & Business/HUB - Career & Business.md",
+    "📙Notes/Career & Business/List of companies.md",
+    "📎Attachments/diagram-20230429.svg",
+    "📎Attachments/Pasted image 20230429102543.png",
+    "📙Notes/Mathematics/0. Mathematics.md",
+    "📙Notes/Computer Science/1 - AWS.md",
+    "📙Notes/Computer Science/AWS",
+    "📎Attachments/Pasted image 20230426224230.png",
+    "📙Notes/Linear regression - Machine Learning.md",
+    "📙Notes/Computer Science/AWS/AWS - Amazon Machine Image (AMI).md",
+    "📎Attachments/Pasted image 20230424124122.png",
+    "📙Notes/Planification/1 - Tasks.md",
+    "📙Notes/1. Pandas.md",
+    "📙Notes/Mathematics/context.mdb",
+    "📙Notes/Mathematics",
+    "1 - Logics.md",
+    "Untitled.md",
+    "📙Notes/Career & Business/Gradient/0 - Gradient.md",
+    "📙Notes/Computer Science/AWS - Identity and Access Management (IAM).md",
+    "📎Attachments/Pasted image 20230423120116.png",
+    "📎Attachments/Pasted image 20230423115328.png",
+    "📎Attachments/Pasted image 20230423114802.png",
+    "📎Attachments/Pasted image 20230423114744.png",
+    "📎Attachments/Pasted image 20230423113834.png",
+    "📎Attachments/Pasted image 20230423113624.png",
+    "📙Notes/Computer Science/AWS - Elastic Block Store (EBS).md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "📙Notes/Computer Science/AWS - Runtime Compute Choices.md",
+    "📙Notes/Heredot",
+    "📙Notes/Artificial Intelligence",
+    "📙Notes/Planification/Month",
+    "📙Notes/Career & Business/Gradient"
+  ]
+}

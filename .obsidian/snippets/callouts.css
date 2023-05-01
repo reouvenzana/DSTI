@@ -1,0 +1,23 @@
+.callout[data-callout="map"] {
+    --callout-color: 112, 112, 112;
+    --callout-icon: map;
+}
+
+.callout[data-callout="example"] {
+    --callout-color: 18, 142, 211;
+    --callout-icon: eye;
+}
+
+.callout[data-callout="seealso"] {
+    --callout-color: 255, 255, 255;
+    --callout-icon: list-ordered;
+}
+
+.callout[data-callout="attention"] {
+    --callout-color: 255, 51, 51;
+}
+
+.callout[data-callout="note"] {
+    --callout-color: 26, 255, 198;
+    --callout-icon: search;
+}

@@ -1,0 +1,31 @@
+{
+  "alwaysUpdateLinks": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "legacyEditor": false,
+  "spellcheck": false,
+  "livePreview": true,
+  "lineWrap": true,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "current",
+  "newFileFolderPath": "📂Notes",
+  "attachmentFolderPath": "📎Attachments",
+  "showInlineTitle": false,
+  "showLineNumber": false,
+  "showFrontmatter": true,
+  "userIgnoreFilters": [
+    "📎Attachments/",
+    "🖼️Templates/"
+  ]
+}

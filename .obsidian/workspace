@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "88fa8de19c28ae84",
+    "type": "split",
+    "children": [
+      {
+        "id": "f56dde2b957c7cd1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Informatique/Git/1. Getting started.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54c9c559cd56cf47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ebeb2ca17160fc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9652114db6b0f0a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "947caeb68f9ea825",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "fibon",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259
+  },
+  "right": {
+    "id": "fadb57a53601aa88",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e94131f1afa1643",
+        "type": "tabs",
+        "dimension": 46.65738161559889,
+        "children": [
+          {
+            "id": "cd1334d14f3a5f4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Informatique/Git/1. Getting started.md"
+              }
+            }
+          },
+          {
+            "id": "9f61634e4557da51",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c0a44b0042dc6ff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8a226efbf6321b8c",
+        "type": "tabs",
+        "dimension": 53.34261838440112,
+        "children": [
+          {
+            "id": "0dd8c74e7487482e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Informatique/Git/1. Getting started.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "file:\"MOC\"",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8496676175428488,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 201.5
+  },
+  "active": "f56dde2b957c7cd1",
+  "lastOpenFiles": [
+    "Informatique/Git/0. Introduction.md",
+    "🏠 Home.md",
+    "📂Notes/Pandas.md",
+    "📂Notes/PDS - Aggregate methods.md",
+    "Attachments/Pasted image 20221006145057.png",
+    "📂Notes/La magie des dividendes.md",
+    "📂Notes/Réunion Adrien.md",
+    "📂Notes/Réunion Issam.md",
+    "📂Notes/Protocole des sages de Sion.md",
+    "📂Notes/MOC - Machine Learning.md"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Inbox",
+      "path": "Inbox.md"
+    },
+    {
+      "type": "file",
+      "title": "Callouts Guide",
+      "path": "Contents Guide.md"
+    },
+    {
+      "type": "file",
+      "title": "PORTAL - DSTI",
+      "path": "PORTAL - DSTI.md"
+    },
+    {
+      "type": "file",
+      "title": "The Learning Map Algortihm",
+      "path": "The Learning Path Algortihm.md"
+    },
+    {
+      "type": "file",
+      "title": "PORTAL - Character sheet",
+      "path": "PORTAL - Character sheet.md"
+    },
+    {
+      "type": "file",
+      "title": "Home Canvas",
+      "path": "Home Canvas.canvas"
+    },
+    {
+      "type": "file",
+      "title": "HUB - Planification",
+      "path": "📙Notes/Planification/1 - Tasks.md"
+    }
+  ]
+}

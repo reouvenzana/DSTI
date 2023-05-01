@@ -1,0 +1,26 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "AnuPpuccin",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "Links",
+    "Trail View",
+    "dataview tags",
+    "dataview list",
+    "learning-map",
+    "Blockquotes",
+    "rename",
+    "HoverImage",
+    "Tables",
+    "callouts",
+    "Mathjax",
+    "Justify",
+    "Borders",
+    "centerImg"
+  ],
+  "theme": "moonstone",
+  "accentColor": "#e6c44c",
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "interfaceFontFamily": "Inter"
+}
