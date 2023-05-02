@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "📙Courses/Warm-up - Mathematics/Sets.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -64,9 +64,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "📙Courses/Warm-up - Mathematics/Sets.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📙Courses/Warm-up - Mathematics/Sets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📙Courses/Warm-up - Mathematics/Sets.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,11 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "fe3f6a7ef71587e1",
+  "active": "d9652114db6b0f0a",
   "lastOpenFiles": [
+    "📙Courses/Warm-up - Mathematics/Sets.md",
+    "📙Courses/Warm-up - Mathematics/Combinatorics.md",
     "🖇️Attachments/diagram-20230502.svg",
     "README.md",
-    "📙Courses/Warm-up - Mathematics/Sets.md",
     "🖇️Attachments",
     "📙Courses/Warm-up - Mathematics/Logic.md",
     "LICENSE",
@@ -232,7 +229,6 @@
     "📎Attachments/Pasted image 20230423114802.png",
     "📎Attachments/Pasted image 20230423114744.png",
     "📎Attachments/Pasted image 20230423113834.png",
-    "📎Attachments/Pasted image 20230423113624.png",
     "📙Notes/Computer Science/AWS - Elastic Block Store (EBS).md",
     "Context/spacesLastSync.log",
     "Context",

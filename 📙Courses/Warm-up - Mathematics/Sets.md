@@ -252,7 +252,7 @@ A binary relationship $R$ is **reflexive** if  $\displaystyle aRa,\ \forall a\in
 > [!Example] Example
 > $\displaystyle a\leqslant b$ is reflexive since $\displaystyle a\leqslant a$.
 
-### 10.3 Property - symmetry
+### 10.3 Property - symmetry ($\mathcal{S}$)
 A binary relationship $\displaystyle R$ is **symmetric** if  $\displaystyle aRb\Longrightarrow bRa$. So, if $\displaystyle ( a;b)$ belongs to $\displaystyle G$, then $\displaystyle ( b;a)$ also belongs to $\displaystyle G$. Geometrically, it means that the graph $\displaystyle G$ is symmetric with respect to the first bisectrix. 
 
 ### 10.4 Property - antisymmetry ($\mathcal{A}$)
@@ -277,3 +277,68 @@ G=bRc
 > $\displaystyle a\leqslant b$
 > 
 > So $\displaystyle a\leqslant b$ and $\displaystyle b\leqslant c$ implies that $\displaystyle a\leqslant c$.
+
+### 10.6 Definition - equivalence class
+A relation wich is $\displaystyle \mathcal{R,\ S,\ Z}$ is called an **equivalence class**. 
+
+An equivalence class of $\displaystyle a$ is $C_{a} =\{x\in E,xRa\}$.
+
+### 10.7 Proposition
+Two equivalence classes are either [[Sets#5.6 Definition - disjoint sets|disjoint]] or identical.
+
+#### 10.7.1 Corollary
+Equivalence classes constitute a [[Sets#5.7 Definition - partition|partition]] of $\displaystyle E$.
+
+### 10.8 Definition - quotient space
+The **quotient-space** is the set of the equivalence class.
+$\displaystyle E/R =\{C_{a}\}$
+
+> [!Example] Example
+> $\displaystyle a,b\in \mathbb{Z} ,\ aRb\ \Longleftrightarrow \ a-b$ is a multiple of $\displaystyle 3$.
+> 
+> Some equivalence classes include:
+> 
+> $\displaystyle C_{0} =\{\dotsc ,-6,-3,0,3,6,\dotsc \}$
+> 
+> $\displaystyle C_{1} =\{\dotsc ,-8,-5,-2,1,4,7,10,\dotsc \}$
+> 
+> $\displaystyle C_{2} =\{\dotsc ,-7,-4,-1,2,5,8,11,\dotsc \}$
+> 
+> Now, those classes will only repeat: 
+> $\displaystyle C_{3} =C_{0} ,\ C_{4} =C_{1} ,\dotsc$
+> 
+> So there exist only 3 classes.
+> 
+> Thus, the quotient space $\displaystyle \mathbb{Z}/3\mathbb{Z} =\{C_{0} ,C_{1} ,C_{2}\}$
+> 
+> That's what we call 'modulo $\displaystyle 3$'.
+
+## 11 Order Relation
+
+### 11.1 Definition - order relation
+An **order relation** is a relation wich is [[Sets#10.2 Property - reflexivity ($ mathcal{R}$)|reflexive]], [[Sets#10.4 Property - antisymmetry ($ mathcal{A}$)|antisymmetric]] and [[Sets#10.5 Property - transitivity ($ mathcal{Z}$)|transitive]] ($\displaystyle \mathcal{R,\ S,\ Z}$).
+
+> [!Example] Example
+> $\displaystyle a\leqslant b$
+
+### 11.2 Definition - order set
+A set $\displaystyle E$ is ordered if it has an order relation.
+
+### 11.3 Definition - lower and upper bounds
+$\displaystyle A\subset E,\ A\neq \emptyset$
+$\displaystyle a$ is an **upper bound** of $\displaystyle A$ if $\displaystyle x\leqslant a,\forall x\in A$
+
+$\displaystyle b$ is an **lower bound** of $\displaystyle A$ if $\displaystyle b\leqslant x,\forall x\in A$
+
+$\displaystyle A$ is **bounded** if it is both upper and lower bounded
+
+### 11.4 Definition - infimum and supremum
+The **supremum** of $\displaystyle A$ is the lowest upper bound.
+The **infimum** of $\displaystyle A$ is the greatest lower bound.
+
+> [!Example] Example
+> $\displaystyle A=] a,b[$
+> 
+> Infimum: $\displaystyle a$
+> 
+> Supremum: $\displaystyle b$
