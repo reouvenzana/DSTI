@@ -245,9 +245,9 @@ Giving a **binary relation** on $\displaystyle E$ consists in introducing a part
 > $\displaystyle a\in \mathbb{R}, b\ \in \mathbb{R}^{+} ,\ a\leqslant b$
 > ![[diagram-20230502.svg]] 
 
-### 10.2 Property - reflexivity
+### 10.2 Property - reflexivity ($\mathcal{R}$)
 
-A binary relationship $\displaystyle R$ is **reflexive** if  $\displaystyle aRa,\ \forall a\in E$. Geometrically, it means that the first bisectrix is included in $\displaystyle G$.
+A binary relationship $R$ is **reflexive** if  $\displaystyle aRa,\ \forall a\in E$. Geometrically, it means that the first bisectrix is included in $\displaystyle G$.
 
 > [!Example] Example
 > $\displaystyle a\leqslant b$ is reflexive since $\displaystyle a\leqslant a$.
@@ -255,7 +255,7 @@ A binary relationship $\displaystyle R$ is **reflexive** if  $\displaystyle aRa,
 ### 10.3 Property - symmetry
 A binary relationship $\displaystyle R$ is **symmetric** if  $\displaystyle aRb\Longrightarrow bRa$. So, if $\displaystyle ( a;b)$ belongs to $\displaystyle G$, then $\displaystyle ( b;a)$ also belongs to $\displaystyle G$. Geometrically, it means that the graph $\displaystyle G$ is symmetric with respect to the first bisectrix. 
 
-### 10.4 Property - antisymmetry
+### 10.4 Property - antisymmetry ($\mathcal{A}$)
 $\displaystyle \begin{drcases}
 G=aRb\\
 G=bRa
@@ -267,7 +267,7 @@ G=bRa
 > So, $\displaystyle a\leqslant b$ and $\displaystyle b\leqslant a$ implies that $\displaystyle a=b$.
 > 
 
-### 10.5 Property - transitivity
+### 10.5 Property - transitivity ($\mathcal{Z}$)
 $\displaystyle \begin{drcases}
 G=aRb\\
 G=bRc
