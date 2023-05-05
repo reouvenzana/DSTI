@@ -82,5 +82,54 @@ $\displaystyle p=n$, so
 
 $\displaystyle C_{n}^{n} =C_{n}^{n-n} =C_{n}^{0} =1$
 
-## 4 Pascal's formula
+## 4 Binomials
+
+### 4.1 Proposition - Pascal's formula
+$\displaystyle E=\{a,\dotsc ]$
+
+The number of combinations *containing* $\displaystyle a$ is $\displaystyle C_{n-1}^{p-1}$ (since $\displaystyle a$ is always selected).
+
+The number of combinations *not containing* $\displaystyle a$ is $\displaystyle C_{n-1}^{p}$ (since we remove $\displaystyle a$ from $\displaystyle n$).
+
+Then, the number of combinations containing $\displaystyle a$ added to the number of combinations not containing $\displaystyle a$ is equal to the total number of combinations.
+
+$\displaystyle C_{n}^{p} =C_{n-1}^{p-1} +C_{n-1}^{p}$
+
+### 4.2 Proposition - Binomial's formula $\displaystyle ( +)$
+$\displaystyle ( x+a_{1})( x+a_{2}) \dotsc ( x+a_{n})$
+$\displaystyle =x^{n} +\sigma _{1} x^{n-1} +\sigma _{2} x^{n-2} +\dotsc +\sigma _{p} x^{n-p} +\dotsc +\sigma _{n}$
+
+With:
+$\displaystyle \sigma _{1} =a_{1} +\dotsc +a_{n}$
+
+$\displaystyle \sigma _{2} =\sum _{i\neq j} a_{i} a_{j} =C_{n}^{2}$
+
+$\displaystyle \sigma _{p} =\sum a_{i} \dotsc a_{p} =C_{n}^{p}$
+
+$\displaystyle \sigma _{n} =\sum a_{1} \dotsc a_{n} =C_{n}^{n} =1$
+
+### 4.3 Proposition - Binomial's formula $\displaystyle ( -)$
+$\displaystyle ( x-a_{1})( x-a_{2}) \dotsc ( x-a_{n}) \ =x^{n} -\sigma _{1} x^{n-1} +\sigma _{2} x^{n-2} +\dotsc +( -1)^{p} \sigma _{p} x^{n-p} +( -1)^{n} \sigma _{n}$
+
+### 4.4 Proposition - $\displaystyle a_{1} =a_{2} =\dotsc =a_{n}$
+$\displaystyle ( x+a_{1})( x+a_{2}) \dotsc ( x+a_{n}) =( x+a)^{n}$
+
+Then:
+$\displaystyle ( x+a)^{n} =x^{n} +na^{1} x^{n-1} +C_{n}^{2} a^{2} x^{n-2} +\dotsc +C_{n}^{p} a^{p} x^{n-p} +a^{n}$
+
+> [!example] Example
+> $\displaystyle n=3$<br>
+> $\displaystyle ( x+a)^{3} =x^{3} +3ax^{2} +2a^{2} x+a^{3}$
+
+### 4.5 Proposition - $\displaystyle x=a=1$
+$\displaystyle ( 1+1)^{n} =2^{n} =\sum _{p=0}^{n} C_{n}^{p}$
+
+### 4.6 Proposition - sum of combination of odds and even
+$\displaystyle \sum _{p=\text{odd}} C_{n}^{p} =\sum _{p=\text{even}} C_{n}^{p} =2^{n-1}$
+
+### 4.7 Proposition - square of a polynomial
+$\displaystyle \underbrace{( a+b+\dotsc +l)^{2}}_{n^{2}\text{ terms}} =\underbrace{\sum a^{2}}_{n\text{ terms}} +2\underbrace{\sum ab}_{C_{n}^{2}\text{ terms}} +\dotsc$
+
+### 4.8 Proposition - cube of a polynomial
+$\displaystyle \underbrace{( a+b+\dotsc +l)^{3}}_{n^{3}\text{ terms}} =\underbrace{\sum a^{2}}_{n\text{ terms}} +3\underbrace{\sum a^{2} b}_{A_{n}^{2}\text{ terms}} +6\underbrace{\sum abc}_{C_{n}^{3}\text{ terms}} + \dotsc$
 
